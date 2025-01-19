@@ -1,4 +1,3 @@
-@ -1,57 +0,0 @@
 # Protein Structure Visualization and Analysis
 
 ## Project Overview
