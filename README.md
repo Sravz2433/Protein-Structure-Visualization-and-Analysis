@@ -1,13 +1,13 @@
 # **E. coli Protein Visualization and Analysis**
 
 ## **Overview**
-This project focuses on visualizing and analyzing *Escherichia coli* protein structures to uncover their structural and functional properties. Using tools such as PyMOL and Biopython, the project highlights critical features like active sites and ligand interactions, providing insights into protein functionality and potential applications.
+This project focuses on visualizing and analyzing *Escherichia coli* protein structures to uncover their structural and functional properties. Using tools such as MDAnalysis and Biopython, the project highlights critical features like active sites and ligand interactions, providing insights into protein functionality and potential applications.
 
 ---
 
 ## **Key Features**
 1. **Protein Visualization**:
-   - High-quality 3D visualizations using PyMOL.
+   - High-quality 3D visualizations using MdAnalysis.
    - Highlighting of specific residues (e.g., active sites and binding pockets).
 
 2. **Structural Analysis**:
