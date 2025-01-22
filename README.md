@@ -36,7 +36,6 @@ Ecoli-Protein-Visualization/
 │   ├── processed_results/ # Outputs (visualizations, analysis results)
 ├── scripts/
 │   ├── analysis.ipynb     # Jupyter notebook for structural analysis
-│   ├── visualization.py   # PyMOL visualization script
 ├── docs/
 │   ├── methodology.md     # Methodology description
 │   ├── results.md         # Results summary
